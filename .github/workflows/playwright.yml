@@ -1,4 +1,11 @@
 name: Playwright Tests
+  
+    run: |
+        cd PortalUIAutomation
+        # Running features with Allure reporting
+        npx cucumber-js features/LoginTest.feature --tags "@Dashboard" --format allure-cucumberjs/reporter
+     
+
 on:
   push:
     branches: [ main ]
