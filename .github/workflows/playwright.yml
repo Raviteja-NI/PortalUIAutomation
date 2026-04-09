@@ -34,8 +34,9 @@ jobs:
           PW_HEADLESS: 1
         run: |
           cd PortalUIAutomation
-          xvfb-run npx cucumber-js features/LoginTest.feature --tags "@Dashboard" --format allure-cucumberjs/reporter
-
+         xvfb-run npx cucumber-js features/Refund.feature --tags "@Refund" --format allure-cucumberjs/reporter
+         xvfb-run npx cucumber-js features/Transactions.feature --tags "@TL" --format allure-cucumberjs/reporter
+         
       - name: Install Allure
         if: always()
         run: npm install -g allure-commandline

@@ -3,7 +3,7 @@ Feature: Verify the Refund Transactions
   Background:  Login as merchant user
     Given I navigate to the sandbox portal
 
-  @Refund1
+  @Refund
   Scenario:DEP_RFND_005-Verify that Refund Option is available in transaction detailed page for all the POS "Settled" Transactions in Portal-POS
     When I login using "carrefour" user name and password
     When  I click on Orders tab
@@ -21,7 +21,7 @@ Feature: Verify the Refund Transactions
     And I select "Settled" from "status" filter
     Then I Verify the elgibilty of Refund
 
-  @Refund1
+  @Refund
   Scenario:DEP_RFND_010-Verify that the system prevents submission and display an error message in the Transaction details screen When merchant entered amount exceeds the allowed limit-POS
 
     When  I click on Orders tab
