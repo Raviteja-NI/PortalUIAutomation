@@ -1,0 +1,5 @@
+Navigation Successful!
+🔑 NO SESSION: Logging in as abhranil.ghosh@network.global
+✅ Selected "pos" from channel
+Found On Cycle record. Row details: 4.63 AED POS AED On Cycle 26/03/2026 AE69***************1215
+--- Total rows found: 0 ---

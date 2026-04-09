@@ -1,0 +1,135 @@
+{
+  "cookies": [
+    {
+      "name": "AUTH_SESSION_ID",
+      "value": "6c62e1fd-be2d-4c98-b8ac-ba65beed939e.keycloak-service-b5b65f549-fwrdp-20646",
+      "domain": "identity.sandbox.ngenius-payments.com",
+      "path": "/auth/realms/ni/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AUTH_SESSION_ID_LEGACY",
+      "value": "6c62e1fd-be2d-4c98-b8ac-ba65beed939e.keycloak-service-b5b65f549-fwrdp-20646",
+      "domain": "identity.sandbox.ngenius-payments.com",
+      "path": "/auth/realms/ni/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI2MmM2ZDNkZC01Yjg5LTRlNDgtYjhjYS1lNWMyZmE3YmYxZDkifQ.eyJleHAiOjE3NzAzMjc0NjQsImlhdCI6MTc3MDI5MTQ2NCwianRpIjoiODYwOGMzZjQtYTZkNC00MWM2LThjZWItMzg1ZGFmNTQyYjlmIiwiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS5zYW5kYm94Lm5nZW5pdXMtcGF5bWVudHMuY29tL2F1dGgvcmVhbG1zL25pIiwic3ViIjoiMjk3Mjc0YWQtYTRlMy00NjQyLWE3OGMtNjRiZjJiN2RlNWU3IiwidHlwIjoiU2VyaWFsaXplZC1JRCIsInNlc3Npb25fc3RhdGUiOiI2YzYyZTFmZC1iZTJkLTRjOTgtYjhhYy1iYTY1YmVlZDkzOWUiLCJzaWQiOiI2YzYyZTFmZC1iZTJkLTRjOTgtYjhhYy1iYTY1YmVlZDkzOWUiLCJzdGF0ZV9jaGVja2VyIjoiWVVmSldkYmNvUTZCUVJ1LUplOGIyd1BwbUFodjJEOV82TXc4b3lSMUp4dyJ9.1H2s6bhHpHkrBduYFgP6P0lA047LEH3leDXJ5OnMEuU",
+      "domain": "identity.sandbox.ngenius-payments.com",
+      "path": "/auth/realms/ni/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_IDENTITY_LEGACY",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI2MmM2ZDNkZC01Yjg5LTRlNDgtYjhjYS1lNWMyZmE3YmYxZDkifQ.eyJleHAiOjE3NzAzMjc0NjQsImlhdCI6MTc3MDI5MTQ2NCwianRpIjoiODYwOGMzZjQtYTZkNC00MWM2LThjZWItMzg1ZGFmNTQyYjlmIiwiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS5zYW5kYm94Lm5nZW5pdXMtcGF5bWVudHMuY29tL2F1dGgvcmVhbG1zL25pIiwic3ViIjoiMjk3Mjc0YWQtYTRlMy00NjQyLWE3OGMtNjRiZjJiN2RlNWU3IiwidHlwIjoiU2VyaWFsaXplZC1JRCIsInNlc3Npb25fc3RhdGUiOiI2YzYyZTFmZC1iZTJkLTRjOTgtYjhhYy1iYTY1YmVlZDkzOWUiLCJzaWQiOiI2YzYyZTFmZC1iZTJkLTRjOTgtYjhhYy1iYTY1YmVlZDkzOWUiLCJzdGF0ZV9jaGVja2VyIjoiWVVmSldkYmNvUTZCUVJ1LUplOGIyd1BwbUFodjJEOV82TXc4b3lSMUp4dyJ9.1H2s6bhHpHkrBduYFgP6P0lA047LEH3leDXJ5OnMEuU",
+      "domain": "identity.sandbox.ngenius-payments.com",
+      "path": "/auth/realms/ni/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "KEYCLOAK_SESSION",
+      "value": "ni/297274ad-a4e3-4642-a78c-64bf2b7de5e7/6c62e1fd-be2d-4c98-b8ac-ba65beed939e",
+      "domain": "identity.sandbox.ngenius-payments.com",
+      "path": "/auth/realms/ni/",
+      "expires": 1770327464.58092,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "KEYCLOAK_SESSION_LEGACY",
+      "value": "ni/297274ad-a4e3-4642-a78c-64bf2b7de5e7/6c62e1fd-be2d-4c98-b8ac-ba65beed939e",
+      "domain": "identity.sandbox.ngenius-payments.com",
+      "path": "/auth/realms/ni/",
+      "expires": 1770327464.580964,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "REFRESH",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICI2MmM2ZDNkZC01Yjg5LTRlNDgtYjhjYS1lNWMyZmE3YmYxZDkifQ.eyJleHAiOjE3NzAyOTIzNjQsImlhdCI6MTc3MDI5MTQ2NCwianRpIjoiNTZmOTUzNTAtMmI4NS00YWIyLThmNTItYWQ1YWQ3NDMzNGQyIiwiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS5zYW5kYm94Lm5nZW5pdXMtcGF5bWVudHMuY29tL2F1dGgvcmVhbG1zL25pIiwiYXVkIjoiaHR0cHM6Ly9pZGVudGl0eS5zYW5kYm94Lm5nZW5pdXMtcGF5bWVudHMuY29tL2F1dGgvcmVhbG1zL25pIiwic3ViIjoiMjk3Mjc0YWQtYTRlMy00NjQyLWE3OGMtNjRiZjJiN2RlNWU3IiwidHlwIjoiUmVmcmVzaCIsImF6cCI6ImdhdGV3YXktcG9ydGFsIiwic2Vzc2lvbl9zdGF0ZSI6IjZjNjJlMWZkLWJlMmQtNGM5OC1iOGFjLWJhNjViZWVkOTM5ZSIsInNjb3BlIjoiIiwic2lkIjoiNmM2MmUxZmQtYmUyZC00Yzk4LWI4YWMtYmE2NWJlZWQ5MzllIn0.87I899K4Kkt7yMPm3KYDsKPoloozNOWeRY60LGeojC4",
+      "domain": ".portal.sandbox.ngenius-payments.com",
+      "path": "/",
+      "expires": 1770292365.004029,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TIMEOUT",
+      "value": "1770291465|300",
+      "domain": ".portal.sandbox.ngenius-payments.com",
+      "path": "/",
+      "expires": 1770292365.00418,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AUTH",
+      "value": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICIzOTVTT3NDdkZUY3NlRmpqNTNiZy1lbFBsUlJZci00OEUzWmN0eDloZnVRIn0.eyJleHAiOjE3NzAyOTE3NjQsImlhdCI6MTc3MDI5MTQ2NCwiYXV0aF90aW1lIjoxNzcwMjkxNDY0LCJqdGkiOiI4YWIxYzYyYi1kYmVmLTRhZTUtODkzMi02ZjQ2NjM3MDg2MDMiLCJpc3MiOiJodHRwczovL2lkZW50aXR5LnNhbmRib3gubmdlbml1cy1wYXltZW50cy5jb20vYXV0aC9yZWFsbXMvbmkiLCJhdWQiOiJodHRwczovL3RyYW5zYWN0aW9uLXNlcnZpY2UucGxhY2UuaG9sZGVyLyIsInN1YiI6IjI5NzI3NGFkLWE0ZTMtNDY0Mi1hNzhjLTY0YmYyYjdkZTVlNyIsInR5cCI6IkJlYXJlciIsImF6cCI6ImdhdGV3YXktcG9ydGFsIiwic2Vzc2lvbl9zdGF0ZSI6IjZjNjJlMWZkLWJlMmQtNGM5OC1iOGFjLWJhNjViZWVkOTM5ZSIsImFjciI6IjEiLCJyZWFsbV9hY2Nlc3MiOnsicm9sZXMiOlsiTVRHIiwiVklTIiwiVkFNIiwiTVRPIiwiVk1BTCIsIlZNSVciLCJWVkwiLCJVQiIsIlZGQSIsIk1QUyIsIlZWUyIsIlZQUFIiLCJWRUZTIiwiTUMiLCJWVlRTIiwiTVNVQlAiLCJWR1JSIiwiVk5TIiwiTUgiLCJNSSIsIlZGTyIsIk1NQSIsIk1NIiwiQUIiLCJWV0MiLCJNRVRDIiwiVkZUIiwiTVIiLCJNTU9QIiwiTVMiLCJNVSIsIk1WIiwiVkEiLCJWQiIsIk1EQVIiLCJWQyIsIlJBIiwiVlBDQiIsIlZIIiwiVldTIiwiVlNUIiwiTUlTIiwiTVZJUyIsIk1BTSIsIlZWU0MiLCJWTyIsIlZQIiwiVlMiLCJWVCIsIkNTQVIiLCJNRVJDSEFOVF9BRE1JTiIsIlZVIiwiQ1JQIiwiTVZMIiwiVlZJUyIsIlZURyIsIlZQQyIsIlYzRFMiLCJNVlMiLCJNVlRTIiwiVlRPIiwiVlBNIiwiTU5TIiwiQ09TUyIsIlJFUFAiLCJNRk8iLCJWUFAiLCJWUFMiLCJNV0MiLCJNU0EiLCJNU09DIiwiQ0EiLCJNU09EIiwiVlVXQyIsIlZEUiIsIk1QQ0IiLCJNV1MiLCJWTUEiLCJDTyIsIlZNRCIsIk1NQUwiLCJFRFBDIiwiQ1YiLCJWRVRDIiwiVkRBUiIsIlZTT0MiLCJWU09EIiwiQURQTSIsIk1HUlIiXX0sInNjb3BlIjoiIiwic2lkIjoiNmM2MmUxZmQtYmUyZC00Yzk4LWI4YWMtYmE2NWJlZWQ5MzllIiwiYWNjZXNzX3R5cGUiOiJTRUxGX0FORF9DSElMRFJFTiIsIm5hbWUiOiJBYmhyYW5pbCBHaG9zaCIsInJlYWxtIjoibmkiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJhYmhyYW5pbC5naG9zaCttY3BAbmV0d29yay5nbG9iYWwiLCJnaXZlbl9uYW1lIjoiQWJocmFuaWwiLCJmYW1pbHlfbmFtZSI6Ikdob3NoIiwiZW1haWwiOiJhYmhyYW5pbC5naG9zaCttY3BAbmV0d29yay5nbG9iYWwiLCJoaWVyYXJjaHlSZWZzIjpbIjNiMWUzNjY4LTJhYTAtNDMyNy1hNWRjLTIzOWUxYjRhMGZmZiJdfQ.jwiDze9M_g04-kqVEoYcQtQqdpnB4N1_FxMjiFECaMzc0Hpzpb22vtX9nd-b1xaAkvKWKvaoX3fQTrzN7YWyaKq7Y3qAkud1DLAXo2t-8NCLMRv85n6wcxFPzUDcTee7dQgV3AOlywqycH_X30fLe7npy2O08Om_2em8hgvZ7tO5TXWhvrsyCVPgg1bPlfdyPwBBOwU2-n9rsfDcJAuFYPblVqAd6u1fCDfvXHxVypSqyDyzDtfAuUANBZIhakapceleC73rTU0A5-JPamwmVkO3l1A44CQLiwZZGyZo0k3reL4u_4YsYBDozIVcS3Fg1CCH1Pl6z93MrUbziRq97w",
+      "domain": ".portal.sandbox.ngenius-payments.com",
+      "path": "/",
+      "expires": 1770292365.004234,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TENANT",
+      "value": "ni",
+      "domain": ".portal.sandbox.ngenius-payments.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "USER_NODE",
+      "value": "3b1e3668-2aa0-4327-a5dc-239e1b4a0fff:MERCHANT",
+      "domain": ".portal.sandbox.ngenius-payments.com",
+      "path": "/",
+      "expires": 1770292367.782016,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "USER_CONTEXT",
+      "value": "3b1e3668-2aa0-4327-a5dc-239e1b4a0fff:MERCHANT",
+      "domain": ".portal.sandbox.ngenius-payments.com",
+      "path": "/",
+      "expires": 1770292367.782574,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://portal.sandbox.ngenius-payments.com",
+      "localStorage": [
+        {
+          "name": "GULP_SC2",
+          "value": "ZXlJbVlteG5KQ0k2TUM0ME1UVTBPRFUxTURFME5qRTVOak16TENJakpGTmVJam93ZlE9PQ=="
+        }
+      ]
+    }
+  ]
+}

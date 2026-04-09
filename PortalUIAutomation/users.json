@@ -1,0 +1,34 @@
+{
+  "mcpuser": {
+    "email": "Ravi.Garikapati+mcp@network.global",
+    "password": "Testing@2026#"
+  },
+  "mdeuser": {
+    "email": "Ravi.Garikapati+mdeuat@network.global",
+    "password": "Testing@2026#"
+  },
+  "softposuser": {
+    "email": "Ravi.Garikapati+standaloneb24@network.global",
+    "password": "Testing@2026#"
+  },
+  "attpuser": {
+    "email": "Ravi.Garikapati+UAT3@network.global",
+    "password": "Testing@2026#"
+  },
+  "carrefouruser": {
+    "email": "abhranil.ghosh@network.global",
+    "password": "March@@2026##"
+  },
+  "carrefourOwner": {
+    "email": "Abhranil.Ghosh+CarrefourMO@network.global",
+    "password": "March@@2026##"
+  },
+  "aanyuser": {
+    "email": "abhranil.ghosh@network.global",
+    "password": "March@@2026##"
+  },
+   "tabbyuser": {
+    "email": "ravi.garikapati@network.global",
+    "password": "Testing@2026#"
+  }
+}

@@ -1,0 +1,24 @@
+Navigation Successful!
+🔑 NO SESSION: Logging in as abhranil.ghosh@network.global
+Cleaned Actual: [
+  "Settlement amount",
+  "Channel",
+  "Currency",
+  "Type",
+  "Settlement Date",
+  "IBAN"
+]
+Detected Dates (in order): [
+  "27/03/2026",
+  "27/03/2026",
+  "26/03/2026",
+  "26/03/2026",
+  "26/03/2026",
+  "26/03/2026",
+  "26/03/2026",
+  "25/03/2026",
+  "25/03/2026",
+  "25/03/2026"
+]
+✅ All dates are correctly sorted in descending order.
+Clicked the first settlement row.

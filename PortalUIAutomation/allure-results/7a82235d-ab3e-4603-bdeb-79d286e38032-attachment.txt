@@ -1,0 +1,13 @@
+🔄 @logout detected: Purging session for new user login...
+Navigation Successful!
+🔑 NO SESSION: Logging in as Ravi.Garikapati+mcp@network.global
+📅 Setting date to Day Before Yesterday: 28-03-2026
+✅ UI Updated to Day Before Yesterday: 28/03/2026 - 28/03/2026
+✅ Selected "Successful" from Payment Status
+✅ Cleared channel filter
+✅ Selected "ECOMMERCE" from channel
+Dashboard Summary are as below:
+Total Value: 250.00
+Payments: 2
+Refunds: 1
+Refund Amount: 50.00

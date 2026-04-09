@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../PORTALAPIAUTOMATION"
+		}
+	],
+	"settings": {
+		"cucumberautocomplete.steps": [
+			"step_definitions/**/*.js"
+		],
+		"cucumberautocomplete.syncfeatures": "features/**/*.feature",
+		"cucumberautocomplete.strictGherkinCompletion": true
+	}
+}

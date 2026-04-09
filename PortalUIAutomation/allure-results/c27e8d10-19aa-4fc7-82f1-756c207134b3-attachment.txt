@@ -1,0 +1,17 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "SOFT_POS" from channel
+Detected Pie Charts: [
+  "Acceptance rate",
+  "Top 5 declines",
+  "Sales by payment type"
+]
+
+📊 Analyzing Top 5 Declines Graph (1 reasons)...
+----------------------------------------------------------------------
+Decline Reason: No data                             | UI Label: 0.00% | Tooltip: No data : 0
+----------------------------------------------------------------------
+Total Decline Value Summed: 0.00
+ℹ️ No decline value found to calculate percentages.
+----------------------------------------------------------------------

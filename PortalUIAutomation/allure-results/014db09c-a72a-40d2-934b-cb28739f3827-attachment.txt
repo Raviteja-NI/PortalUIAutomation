@@ -1,0 +1,13 @@
+Navigation Successful!
+🔑 NO SESSION: Logging in as Ravi.Garikapati+UAT3@network.global
+✅ Selected "soft pos" from channel
+Cleaned Actual: [
+  "Settlement amount",
+  "Channel",
+  "Currency",
+  "Type",
+  "Settlement Date",
+  "IBAN"
+]
+Detected Dates (in order): []
+✅ All dates are correctly sorted in descending order.

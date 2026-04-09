@@ -1,0 +1,13 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "ECOMMERCE" from channel
+Dashboard Summary are as below:
+Total Value: 300.00
+Payments: 2
+Refunds: 0
+Refund Amount: 0.00
+Total Yesterday value: AED 475 YESTERDAY
+Payments Yesterday value: 6 YESTERDAY
+Refund Yesterday value: 1 YESTERDAY
+Refund Amount  Yesterday value: AED 50 YESTERDAY

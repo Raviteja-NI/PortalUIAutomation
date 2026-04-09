@@ -1,0 +1,36 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "ECOMMERCE" from channel
+Detected Pie Charts: [
+  "Acceptance rate",
+  "",
+  "Top 5 declines",
+  "",
+  "Sales by payment type",
+  "",
+  "Orders by currency",
+  "",
+  "Orders by Shopper IP Country",
+  "Orders by Issuing Country",
+  "Orders by Shopper Type",
+  "Orders by Collection Status",
+  ""
+]
+
+📊 Analyzing Chart: "Orders by currency" (1 categories)...
+----------------------------------------------------------------------
+Category:     AED                      
+  └─ Color:      Dark Blue (Visa) (#002E5D)
+  └─ Percentage: 100.00%
+  └─ Tooltip:    AED : 6
+----------------------------------------------------------------------
+
+
+🔍 OPENING DRILL-DOWN: Orders by currency
+
+🏢 OUTLET: ECOM OUTLET2
+--------------------------------------------------
+   🔹 AED 100% 6.00
+--------------------------------------------------
+✅ VERIFICATION COMPLETE: Calculated Sum = 6

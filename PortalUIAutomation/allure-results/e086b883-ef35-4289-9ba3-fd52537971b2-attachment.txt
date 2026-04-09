@@ -1,0 +1,36 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "ECOMMERCE" from channel
+
+📊 Analyzing Chart: "Orders by currency" (1 categories)...
+----------------------------------------------------------------------
+⚠️ Note: Chart "Orders by currency" is showing NO DATA.
+----------------------------------------------------------------------
+
+
+📊 Analyzing Chart: "Orders by Shopper IP Country" (1 categories)...
+----------------------------------------------------------------------
+⚠️ Note: Chart "Orders by Shopper IP Country" is showing NO DATA.
+----------------------------------------------------------------------
+
+
+📊 Analyzing Chart: "Orders by Issuing Country" (1 categories)...
+----------------------------------------------------------------------
+⚠️ Note: Chart "Orders by Issuing Country" is showing NO DATA.
+----------------------------------------------------------------------
+
+
+📊 Analyzing Chart: "Orders by Shopper Type" (1 categories)...
+----------------------------------------------------------------------
+⚠️ Note: Chart "Orders by Shopper Type" is showing NO DATA.
+----------------------------------------------------------------------
+
+
+📊 Analyzing Chart: "Orders by Collection Status" (1 categories)...
+----------------------------------------------------------------------
+Category:     Not Collected            
+  └─ Color:      Dark Blue (Visa) (#002E5D)
+  └─ Percentage: 100.00%
+  └─ Tooltip:    Not Collected : 1
+----------------------------------------------------------------------

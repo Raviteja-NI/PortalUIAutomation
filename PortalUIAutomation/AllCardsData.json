@@ -1,0 +1,26 @@
+{
+  "carrefouruser": {
+    "customer": {
+      "firstName": "FirstName",
+      "lastName": "lastName",
+      "email": "Ravi.Garikapati@network.global"
+    },
+    "payment": {
+      "outlet": "Carrefour Online UAE",
+      "transactionType": "SALE",
+      "currency": "AED",
+      "amount": "12500"
+    },
+    "Visacards": [
+      {        "number": "4012001037141112",        "expiryDate": "12/34",        "cvv": "123",        "nameOnCard": "Success 00"    },
+      {        "number": "4012001037167778",        "expiryDate": "10/32",        "cvv": "456",        "nameOnCard": "Success 00"    },
+      {        "number": "4663295942784758",        "expiryDate": "05/28",        "cvv": "789",        "nameOnCard": "Declined 05 Do not honor"     },
+      {        "number": "4663295942784758",        "expiryDate": "05/28",        "cvv": "789",        "nameOnCard": "Declined 05 Do not honor"     },        
+      {        "number": "4663295942784758",        "expiryDate": "05/28",        "cvv": "789",        "nameOnCard": "Declined 05 Do not honor"      },
+      {        "number": "4663295942784758",        "expiryDate": "05/28",        "cvv": "789",        "nameOnCard": "Declined 05 Do not honor"  },
+      {        "number": "4663295942784758",        "expiryDate": "05/28",        "cvv": "789",        "nameOnCard": "Declined 05 Do not honor"   },
+      {        "number": "4663295942784758",        "expiryDate": "05/28",        "cvv": "789",        "nameOnCard": "Declined 05 Do not honor"      },
+      {        "number": "4663295942784758",        "expiryDate": "05/28",        "cvv": "789",        "nameOnCard": "Declined 05 Do not honor"   }
+    ]
+  }
+}

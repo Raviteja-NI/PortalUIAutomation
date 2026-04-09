@@ -1,0 +1,13 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "ECOMMERCE" from channel
+✅ Selected "SOFT_POS" from channel
+Detected Pie Charts: [
+  "Acceptance rate",
+  "",
+  "Top 5 declines",
+  "",
+  "Sales by payment type",
+  ""
+]

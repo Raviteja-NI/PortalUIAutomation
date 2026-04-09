@@ -1,0 +1,44 @@
+Name,CardNumber,Amount,Comments,Card
+Alice,4012001037141112,100, Success 00,Visa
+Bob,4012001037167778,50, Success 00,Visa
+Charlie,4663295942784758,200, Declined 05 Do not honor,Visa
+David,4792445612017070,75, Declined 41 Lost Card,Visa
+Emma,4856373900351345,60, Declined 43 Stolen card,Visa
+Faisal,4596035679045649,110, Declined 14 Invalid account number,Visa
+Gina,4154939775666626,45, Declined 51 Insufficient funds,Visa
+Hannah,4581750602050444,90, Declined 55 Incorrect PIN,Visa
+Ivan,4396294095051580,30,  Declined 54 Expired card,Visa
+Jacob,5168441223630339,55, Success 00,Master Card
+Karan,5457210001000019,80, Success 00,Master Card
+Liam,5457210001000068,125, Success 00,Master Card
+Maya,5513935292057458,40, Declined 05 Do not honor,Master Card
+Nina,5318633074800131,20, Declined 41 Lost Card,Master Card
+Omar,5468504534399055,10, Declined 43 Stolen card,Master Card
+Priya,5291376215747677,95, Declined 14 Invalid account number,Master Card
+Ravi,5311535808692279,120, Declined 51 Insufficient funds,Master Card
+Sara,5237553387466248,130,Declined 55 Incorrect PIN,Master Card
+Tom,5139663617988918,140,  Declined 54 Expired card,Master Card
+Uma,30000633943679,75,Diners with Success 00,Diners
+Aiden,30000679681811,120,Declined 05 Do not honor,Diners
+Zoya,30000686350889,125,Declined 41 Lost Card,Diners
+Kian,30000664346750,40,Declined 43 Stolen card,Diners
+Mira,30000645457916,20,Declined 14 Invalid account number,Diners
+Arlo,30000640812438,10,Declined 51 Insufficient funds,Diners
+Elara,30000654945546,95,Declined 55 Incorrect PIN,Diners
+Zayne,30000619879541,120, Declined 54 Expired card,Diners
+Selin,6011251474848176,130,Success 00,Discovers
+Rhea,6011255365642556,140,Declined 05 Do not honor,Discovers
+Aria,6011257097979413,75,Declined 41 Lost Card,Discovers
+Kairo,6011253490401105,120,Declined 43 Stolen card,Discovers
+Nila,6011256461419204,125,Declined 14 Invalid account number,Discovers
+Soren,6011252382182641,40,Declined 51 Insufficient funds,Discovers
+Zaina,6011254241073508,20,Declined 55 Incorrect PIN,Discovers
+Eshan,6011251666935393,10, Declined 54 Expired card,Discovers
+Liora,376253059827197,95,Success 00,American Express
+Tavian,342666155178069,120,Declined 05 Do not honor,American Express
+Nyra,379756503128092,130,Declined 41 Lost Card,American Express
+Rylan,379759866657715,140,Declined 43 Stolen card,American Express
+Amira,341978867326360,75,Declined 14 Invalid account number,American Express
+Zade,378071771546723,120,Declined 51 Insufficient funds,American Express
+Keira,344997300787738,10,Declined 55 Incorrect PIN,American Express
+Malek,345169691474198,95, Declined 54 Expired card,American Express

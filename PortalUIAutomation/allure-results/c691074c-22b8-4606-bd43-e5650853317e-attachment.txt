@@ -1,0 +1,9 @@
+🔄 @logout detected: Purging session for new user login...
+Navigation Successful!
+🔑 NO SESSION: Logging in as Ravi.Garikapati+mcp@network.global
+✅ Selected "Today" from Date
+
+🔍 VERTICAL SWEEP SCANNING TPV GRAPH (152 & 300)
+--------------------------------------------------
+➖ No active points detected. Points 152 and 300 were not triggered.
+--------------------------------------------------

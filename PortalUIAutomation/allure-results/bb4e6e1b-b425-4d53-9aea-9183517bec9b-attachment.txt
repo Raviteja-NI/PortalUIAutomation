@@ -1,0 +1,9 @@
+Navigation Successful!
+Default Filter selected are as below
+Default date: 29/03/2026 - 29/03/2026
+Default Currency: AED
+Default Channels: ECOMMERCE, POS, SOFT_POS, MOTO
+Default Payment Status: Successful
+
+📈 SCANNING GRAPH FOR ACTIVITY...
+--------------------------------------------------

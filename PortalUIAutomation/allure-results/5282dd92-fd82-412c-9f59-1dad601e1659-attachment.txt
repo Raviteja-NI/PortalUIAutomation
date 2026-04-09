@@ -1,0 +1,47 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "ECOMMERCE" from channel
+Detected Pie Charts: [
+  "Acceptance rate",
+  "",
+  "Top 5 declines",
+  "",
+  "Sales by payment type",
+  "",
+  "Orders by currency",
+  "",
+  "Orders by Shopper IP Country",
+  "Orders by Issuing Country",
+  "Orders by Shopper Type",
+  "Orders by Collection Status",
+  ""
+]
+
+📊 Analyzing Chart: "Orders by Collection Status" (1 categories)...
+----------------------------------------------------------------------
+Category:     Not Collected            
+  └─ Color:      Dark Blue (Visa) (#002E5D)
+  └─ Percentage: 100.00%
+  └─ Tooltip:    Not Collected : 11
+----------------------------------------------------------------------
+
+
+🔍 OPENING DRILL-DOWN: Orders by Collection Status
+
+🏢 OUTLET: ECOM OUTLET2
+--------------------------------------------------
+   🔹 Not Collected 100% 11.00
+   🔹 Total 11.00
+--------------------------------------------------
+✅ VERIFICATION COMPLETE: Calculated Sum = 11
+
+✅ Selected "Last 7 days" from Date
+
+📊 Analyzing Chart: "Orders by Collection Status" (1 categories)...
+----------------------------------------------------------------------
+Category:     Not Collected            
+  └─ Color:      Dark Blue (Visa) (#002E5D)
+  └─ Percentage: 100.00%
+  └─ Tooltip:    Not Collected : 82
+----------------------------------------------------------------------

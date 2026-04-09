@@ -1,0 +1,10 @@
+Navigation Successful!
+🔑 NO SESSION: Logging in as abhranil.ghosh@network.global
+Found Headers: [
+  "Settlement amount",
+  "Channel",
+  "Currency",
+  "Type",
+  "Settlement Date",
+  "IBAN"
+]

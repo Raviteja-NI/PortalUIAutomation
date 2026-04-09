@@ -1,0 +1,29 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "ECOMMERCE" from channel
+Detected Pie Charts: [
+  "Acceptance rate",
+  "",
+  "Top 5 declines",
+  "",
+  "Sales by payment type",
+  "",
+  "Orders by currency",
+  "",
+  "Orders by Shopper IP Country",
+  "Orders by Issuing Country",
+  "Orders by Shopper Type",
+  "Orders by Collection Status",
+  ""
+]
+
+📊 Analyzing Acceptance Rate Graph (2 categories)...
+----------------------------------------------------------------------
+Status: Approved        | UI Label: 56.07% | Tooltip: Approved : 300.00AED
+Status: Declined        | UI Label: 43.93% | Tooltip: Declined : 235.00AED
+----------------------------------------------------------------------
+Total Value Summed: 535.00
+✅ VALID: Approved percentage (56.07%) is correct.
+✅ VALID: Declined percentage (43.93%) is correct.
+----------------------------------------------------------------------

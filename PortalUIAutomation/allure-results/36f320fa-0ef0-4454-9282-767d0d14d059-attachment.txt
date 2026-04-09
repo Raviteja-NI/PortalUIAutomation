@@ -1,0 +1,12 @@
+Navigation Successful!
+🔑 NO SESSION: Logging in as Ravi.Garikapati+mcp@network.global
+Default Filter selected are as below
+Default date: 29/03/2026 - 29/03/2026
+Default Currency: AED
+Default Channels: ECOMMERCE, POS, SOFT_POS, MOTO
+Default Payment Status: Successful
+Dashboard Summary are as below:
+Total Value: 0.00
+Payments: 0
+Refunds: 0
+Refund Amount: 0.00

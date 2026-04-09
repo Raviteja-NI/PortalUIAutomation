@@ -1,0 +1,18 @@
+🔄 @logout detected: Purging session for new user login...
+Navigation Successful!
+🔑 NO SESSION: Logging in as Ravi.Garikapati+UAT3@network.global
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "SOFT_POS" from channel
+Detected Pie Charts: [
+  "Acceptance rate",
+  "Top 5 declines",
+  "Sales by payment type"
+]
+
+📊 Analyzing Acceptance Rate Graph (1 categories)...
+----------------------------------------------------------------------
+Status: No data         | UI Label: 0.00% | Tooltip: No data : 0
+----------------------------------------------------------------------
+Total Value Summed: 0.00
+----------------------------------------------------------------------

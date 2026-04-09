@@ -1,0 +1,27 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "ECOMMERCE" from channel
+Detected Pie Charts: [
+  "Acceptance rate",
+  "",
+  "Top 5 declines",
+  "",
+  "Sales by payment type",
+  "",
+  "Orders by currency",
+  "",
+  "Orders by Shopper IP Country",
+  "Orders by Issuing Country",
+  "Orders by Shopper Type",
+  "Orders by Collection Status",
+  ""
+]
+
+📊 Analyzing Chart: "Orders by Shopper Type" (1 categories)...
+----------------------------------------------------------------------
+⚠️ Note: Chart "Orders by Shopper Type" is showing NO DATA.
+----------------------------------------------------------------------
+
+
+🔍 OPENING DRILL-DOWN: Orders by Shopper Type

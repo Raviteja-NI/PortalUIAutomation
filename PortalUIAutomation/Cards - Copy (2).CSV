@@ -1,0 +1,15 @@
+Name,CardNumber,Amount,Comments,Card
+Alice,4012001037141112,100, Success 00,Visa
+Bob,4012001037167778,50, Success 00,Visa
+Charlie,4663295942784758,200, Declined 05 Do not honor,Visa
+David,4792445612017070,75, Declined 41 Lost Card,Visa
+Emma,4856373900351345,60, Declined 43 Stolen card,Visa
+Faisal,4596035679045649,110, Declined 14 Invalid account number,Visa
+Gina,4154939775666626,45, Declined 51 Insufficient funds,Visa
+Hannah,4581750602050444,90, Declined 55 Incorrect PIN,Visa
+Ivan,4396294095051580,30,  Declined 54 Expired card,Visa
+Jacob,5168441223630339,55, Success 00,Master Card
+Karan,5457210001000019,80, Success 00,Master Card
+Liam,5457210001000068,125, Success 00,Master Card
+Maya,5513935292057458,40, Declined 05 Do not honor,Master Card
+Nina,5318633074800131,20, Declined 41 Lost Card,Master Card

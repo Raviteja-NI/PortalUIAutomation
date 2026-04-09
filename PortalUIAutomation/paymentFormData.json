@@ -1,0 +1,128 @@
+{
+  "mdeuser": {
+    "customer": {
+      "firstName": "MDE",
+      "lastName": "USER",
+      "email": "Ravi.Garikapati@network.global",
+      "bccEmail": ""
+    },
+    "payment": {
+      "outlet": "ECOM OUTLET",
+      "transactionType": "SALE",
+      "currency": "AED",
+      "itemDescription": "T-Shirt",
+      "quantity": 1,
+      "amount": "25"
+    },
+    "card": {
+      "number": "5168441223630339",
+      "expiryMonth": "10",
+      "expiryYear": "32",
+      "cvv": "128",
+      "nameOnCard": "MDE User"
+    }
+  },
+  "carrefouruser": {
+    "customer": {
+      "firstName": "CARREFOUR",
+      "lastName": "USER",
+      "email": "Ravi.Garikapati@network.global",
+      "bccEmail": ""
+    },
+    "payment": {
+      "outlet": "Carrefour Online UAE",
+      "transactionType": "SALE",
+      "currency": "AED",
+      "itemDescription": "T-Shirt",
+      "quantity": 1,
+      "amount": "1.5",
+      "authcode": "045217",
+      "declinedauth": "045217",
+      "MID": "001000000030",
+      "TID": "88884820",
+      "apmpaymentid": "12345",
+      "orderid": "58b705f4-2660-476a-afa2-729db984d5d5",
+      "cardlast4": "0339",
+      "rrn": "000000000003",
+      "MID1": "001000000034",
+      "MID2": "200040600001"
+    },
+    "card": {
+      "number": "5168441223630339",
+      "expiryDate": "12/34",
+      "expiryMonth": "10",
+      "expiryYear": "32",
+      "cvv": "567",
+      "nameOnCard": "CarreFour"
+    }
+  },
+  "mcpuser": {
+    "customer": {
+      "firstName": "MCP",
+      "lastName": "USER",
+      "email": "Ravi.Garikapati@network.global",
+      "bccEmail": ""
+    },
+    "payment": {
+      "outlet": "ECOM OUTLET2",
+      "transactionType": "SALE",
+      "currency": "AED",
+      "itemDescription": "Item",
+      "quantity": 1,
+      "amount": "100"
+    },
+    "card": {
+      "number": "4012001037167778",
+      "expiryMonth": "10",
+      "expiryYear": "32",
+      "cvv": "128",
+      "nameOnCard": "MCP User"
+    }
+  },
+  "tabbyuser": {
+    "customer": {
+      "firstName": "taaby",
+      "lastName": "user",
+      "email": "Ravi.Garikapati@network.global",
+      "bccEmail": ""
+    },
+    "payment": {
+      "outlet": "TAPRI",
+      "transactionType": "SALE",
+      "currency": "AED",
+      "itemDescription": "Item",
+      "quantity": 1,
+      "amount": "76"
+    },
+    "card": {
+      "number": "5168441223630339",
+      "expiryMonth": "10",
+      "expiryYear": "32",
+      "cvv": "128",
+      "nameOnCard": "MCP User"
+    }
+  },
+  "aanyuser": {
+    "customer": {
+      "firstName": "aany",
+      "lastName": "user",
+      "email": "Ravi.Garikapati@network.global",
+      "bccEmail": ""
+    },
+    "payment": {
+      "outlet": "Carrefour Online UAE",
+      "transactionType": "SALE",
+      "currency": "AED",
+      "itemDescription": "Item",
+      "quantity": 1,
+      "amount": "76"
+    },
+    "card": {
+      "number": "5168441223630339",
+      "expiryMonth": "10",
+      "expiryYear": "32",
+      "cvv": "128",
+      "nameOnCard": "MCP User"
+    }
+  }
+}
