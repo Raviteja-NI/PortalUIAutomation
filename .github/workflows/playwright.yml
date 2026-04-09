@@ -6,6 +6,9 @@ on:
   pull_request:
     branches: [ main ]
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -27,16 +30,31 @@ jobs:
           npx playwright install --with-deps
 
       - name: Run Playwright tests
+        env:
+          PW_HEADLESS: 1
         run: |
           cd PortalUIAutomation
           xvfb-run npx cucumber-js features/LoginTest.feature --tags "@Dashboard" --format allure-cucumberjs/reporter
-        env:
-          # This tells Playwright to ignore the config file setting and stay headless
-          PW_HEADLESS: 1 
 
-      - name: Upload Results
+      - name: Install Allure
+        if: always()
+        run: npm install -g allure-commandline
+
+      - name: Generate Unified Report
+        if: always()
+        run: |
+          allure generate PortalUIAutomation/allure-results --clean -o allure-report
+
+      - name: Upload Raw Results
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: allure-results
           path: PortalUIAutomation/allure-results/
+
+      - name: Upload Unified HTML Report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: full-allure-report
+          path: allure-report/
