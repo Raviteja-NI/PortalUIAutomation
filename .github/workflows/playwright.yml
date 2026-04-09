@@ -1,11 +1,5 @@
 name: Playwright Tests
-  
-    run: |
-        cd PortalUIAutomation
-        # Running features with Allure reporting
-        npx cucumber-js features/LoginTest.feature --tags "@Dashboard" --format allure-cucumberjs/reporter
      
-
 on:
   push:
     branches: [ main ]
@@ -33,7 +27,7 @@ jobs:
       - name: Run Playwright tests
         run: |
           cd PortalUIAutomation
-          npx playwright test
+          npx cucumber-js features/LoginTest.feature --tags "@Dashboard" --format allure-cucumberjs/reporter
           
       - name: Upload Report
         if: always()
