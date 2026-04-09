@@ -1,38 +1,39 @@
 name: Playwright Tests
-     
+
 on:
   push:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: 18
-          
+
       - name: Install dependencies
         run: |
           cd PortalUIAutomation
           npm install
-          
+
       - name: Install Playwright Browsers
         run: |
           cd PortalUIAutomation
           npx playwright install --with-deps
-          
+
       - name: Run Playwright tests
         run: |
           cd PortalUIAutomation
           npx cucumber-js features/LoginTest.feature --tags "@Dashboard" --format allure-cucumberjs/reporter
-          
-       - name: Upload Results
+
+      - name: Upload Results
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: allure-results
-          # Cucumber with Allure usually outputs here:
-          path: PortalUIAutomation/allure-results/ 
+          path: PortalUIAutomation/allure-results/
