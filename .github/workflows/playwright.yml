@@ -43,7 +43,9 @@ jobs:
       - name: Generate Unified Report
         if: always()
         run: |
-          allure generate PortalUIAutomation/allure-results --clean -o allure-report
+          # Use the --single-file flag to create a portable report
+          allure generate PortalUIAutomation/allure-results --clean --single-file -o allure-report
+
 
       - name: Upload Raw Results
         if: always()
