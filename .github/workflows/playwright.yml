@@ -30,6 +30,9 @@ jobs:
         run: |
           cd PortalUIAutomation
           npx cucumber-js features/LoginTest.feature --tags "@Dashboard" --format allure-cucumberjs/reporter
+        env:
+          # This tells Playwright to ignore the config file setting and stay headless
+          PW_HEADLESS: 1 
 
       - name: Upload Results
         if: always()
