@@ -12,7 +12,7 @@ function mapBrandToUserKey(merchantType) {
         case 'mde': return 'mdeuser';
         case 'carrefour': return 'carrefouruser';
         case 'carreowner': return 'carrefourOwner';
-        case 'softpos': return 'softposuser';
+        case 'mosambee': return 'softposuser';
         case 'attp': return 'attpuser';
         case 'tabby': return 'tabbyuser';
         case 'aany': return 'aanyuser';

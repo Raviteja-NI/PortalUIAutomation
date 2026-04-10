@@ -16,10 +16,9 @@ Feature: Verify the Instant Settlement Functionality
     Then I verify the Maximum amount validation error
     Then I verify the Minimum amount validation error
     Then I display the list of all MIDs and their amounts
-
     Then I verify the Request settlement button state
     And I verify if any MID shows settlement already in progress in the dropdown
-  @InstantSettlementclear
+  @InstantSettlement
   Scenario: DEP_INSTSTM_05-Verify that the card should be placed in the Settlement card in the portal dashboard.
     When I login using "carreOwner" user name and password
     And I click on Settlements tab

@@ -1,4 +1,4 @@
-Feature: Verify the Summary Dashboard Page
+Feature: Verify the Dashboard Page for Ecom and ATTP
 
   Background:  Login as merchant user
     Given I navigate to the sandbox portal

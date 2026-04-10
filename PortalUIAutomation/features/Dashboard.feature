@@ -1,11 +1,11 @@
-Feature: Verify the Summary Dashboard Page
+Feature: Verify the Summary Dashboard Page for POS and Mosambee
 
   Background:  Login as merchant user
     Given I navigate to the sandbox portal
 
   @Dashboard
   Scenario:DEP_DGR_005-Verify that the dashboard renders only the 3 pies & TPV graph when merchant admin login to portal and navigate to dashboard page select Channel as "POS"
-    When I login using "mcp" user name and password
+    When I login using "mde" user name and password
     And I Verify Defualt filter Data
     And I select "Today" from "Date" filter
     When I select "ECOMMERCE" from "channel" filter
@@ -174,7 +174,7 @@ Feature: Verify the Summary Dashboard Page
   @Dashboard @logout
   Scenario:DEP_DGR_039-Verify the Header Metrics & Drill-Down Trigger for Total Payment Value (TPV) Graph_POS
 
-    When I login using "mcp" user name and password
+    When I login using "mde" user name and password
     When I select "Today" from "Date" filter
     And I select "ECOMMERCE" from "channel" filter
     And I select "SOFT_POS" from "channel" filter
@@ -207,7 +207,7 @@ Feature: Verify the Summary Dashboard Page
     And I Verify "Total transactions"
   @Dashboard @logout
   Scenario:DEP_DGR_050-Verify the Acceptance Rate pie charts Drill-Down Trigger & should display one detailed item for the selected channel under each outlet- outlet_softPOS and POS
-    When I login using "mcp" user name and password
+    When I login using "mde" user name and password
     And I select "Today" from "Date" filter
     And I select "SOFT_POS" from "channel" filter
     And I select "MOTO" from "channel" filter
@@ -244,7 +244,7 @@ Feature: Verify the Summary Dashboard Page
     Then  I Verify Acceptance rate piechart
   @Dashboard @logout
   Scenario:DEP_DGR_056-Verify that Pie-Chart displays top 5 decline Reasons with correct Drill-down content details, when merchant login to portal and navigate to dashboard page with multiple channel (POS).
-    When I login using "mcp" user name and password
+    When I login using "mde" user name and password
     And I select "Today" from "Date" filter
     And I select "ECOMMERCE" from "channel" filter
     And I select "SOFT_POS" from "channel" filter

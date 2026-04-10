@@ -1,4 +1,4 @@
-Feature: Verify the Refund Transactions
+Feature: Verify the Settlement Functionality
 
   Background:  Login as merchant user
     Given I navigate to the sandbox portal

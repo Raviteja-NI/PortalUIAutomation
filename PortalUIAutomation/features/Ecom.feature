@@ -1,4 +1,4 @@
-Feature: Verify the Ecom Dashboard Page
+Feature: Trigger the Ecom transactions
 
     Background:  Login as merchant user
         Given I navigate to the sandbox portal
