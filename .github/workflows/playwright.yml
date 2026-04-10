@@ -37,7 +37,7 @@ jobs:
           xvfb-run npx cucumber-js features/LoginTest.feature --tags "@Dashboard" --format allure-cucumberjs/reporter || true
           xvfb-run npx cucumber-js features/Dashboard.feature --tags "@Dashboard" --format allure-cucumberjs/reporter || true
           xvfb-run npx cucumber-js features/Refund.feature --tags "@Refund" --format allure-cucumberjs/reporter || true
-          xvfb-run npx cucumber-js features/Transactions.feature --tags "@TL" --format allure-cucumberjs/reporter || true
+          xvfb-run npx cucumber-js features/Transactions.feature --tags "@Transactions" --format allure-cucumberjs/reporter || true
           xvfb-run npx cucumber-js features/Settlement.feature --tags "@Settlement" --format allure-cucumberjs/reporter || true
           xvfb-run npx cucumber-js features/InstantSettlement.feature --tags "@InstantSettlement1" --format allure-cucumberjs/reporter || true
          
