@@ -1,0 +1,5 @@
+Navigation Successful!
+✅ Selected "pos" from channel
+📅 Setting Date Range: 14/04/2026 to 14/04/2026
+✅ Date Range applied: 21/04/2026 - 21/04/2026
+Targeting Way4 netamount: 49,203.01 for carrefouruser

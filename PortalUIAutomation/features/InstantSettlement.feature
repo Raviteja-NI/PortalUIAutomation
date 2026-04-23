@@ -21,45 +21,35 @@ Feature: Verify the Instant Settlement Functionality
   @InstantSettlement
   Scenario: DEP_INSTSTM_05-Verify that the card should be placed in the Settlement card in the portal dashboard.
     When I login using "carreOwner" user name and password
-    And I click on Settlements tab
-    Then I verify the Settlement table headers
-    And the settlement dates should be in descending order
-    And I click on the first settlement record
+    Then I display the Latest Settlement amount
+    And I display the Available for On-Demand amount
+    And I verify the Settle Now button visibility and state
   @InstantSettlement
   Scenario: DEP_INSTSTM_06-Verify that the On-Demand Settlements feature is available is available under settlement tab /Screen
-    When I login using "carreOwner" user name and password
     And I click on Settlements tab
-    Then I verify the Settlement table headers
-    And the settlement dates should be in descending order
-    And I click on the first settlement record
+    Then I display the Latest Settlement amount
+    And I display the Available for On-Demand amount
+    And I verify the Settle Now button visibility and state
   @InstantSettlement
   Scenario: DEP_INSTSTM_07-"Verify if it is displaying a clear header: "Available for on demand settlement"" on the portal"
-    When I login using "carreOwner" user name and password
-    And I click on Settlements tab
-    Then I verify the Settlement table headers
-    And the settlement dates should be in descending order
-    And I click on the first settlement record
+    Then I display the Latest Settlement amount
+    And I display the Available for On-Demand amount
+    And I verify the Settle Now button visibility and state
   @InstantSettlement
   Scenario: DEP_INSTSTM_08-Verify amount should display in the merchant's local currency (e.g., AED 1,250.00)
-    When I login using "carreOwner" user name and password
-    And I click on Settlements tab
-    Then I verify the Settlement table headers
-    And the settlement dates should be in descending order
-    And I click on the first settlement record
+    Then I display the Latest Settlement amount
+    And I display the Available for On-Demand amount
+    And I verify the Settle Now button visibility and state
   @InstantSettlement
   Scenario: DEP_INSTSTM_10-Verify Settle now button is present in the portal"
-    When I login using "carreOwner" user name and password
-    And I click on Settlements tab
-    Then I verify the Settlement table headers
-    And the settlement dates should be in descending order
-    And I click on the first settlement record
+    Then I display the Latest Settlement amount
+    And I display the Available for On-Demand amount
+    And I verify the Settle Now button visibility and state
   @InstantSettlement
   Scenario: DEP_INSTSTM_11- Verify Clicking "Settle now" button should trigger the On Demand Settlement Request Initiation Flow
-    When I login using "carreOwner" user name and password
-    And I click on Settlements tab
-    Then I verify the Settlement table headers
-    And the settlement dates should be in descending order
-    And I click on the first settlement record
+    When I click on the Settle now button
+    Then I verify the header "Initiate on demand settlements" is displayed
+    Then I verify the Request settlement button state
   @InstantSettlement
   Scenario: DEP_INSTSTM_13-Verify "Settle now" button should be placed within the Settlements Overview Panel under the settlement tab
     When I login using "carreOwner" user name and password
@@ -73,7 +63,7 @@ Feature: Verify the Instant Settlement Functionality
     And I click on Settlements tab
     Then I verify the Settlement table headers
     And the settlement dates should be in descending order
-    And I click on the first settlement record
+    And I verify the Settle Now button visibility and state
   @InstantSettlement
   Scenario: DEP_INSTSTM_17-Verify  when settlement is initiated from the portal, it displays a clear heading: "Settlement Initiated"
     When I login using "carreOwner" user name and password

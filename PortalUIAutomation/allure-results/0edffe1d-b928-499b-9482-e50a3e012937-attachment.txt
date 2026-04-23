@@ -1,0 +1,41 @@
+🔄 @logout detected: Purging session for new user login...
+⚠️ Session purge skipped: page.goto: net::ERR_ABORTED at https://portal.sandbox.ngenius-payments.com/
+Call log:
+[2m  - navigating to "https://portal.sandbox.ngenius-payments.com/", waiting until "domcontentloaded"[22m
+
+Navigation Successful!
+🔑 NO SESSION: Logging in as abhranil.ghosh@network.global
+📅 Force-setting date to hyphenated format: 23-04-2026
+✅ UI Now Shows: 23/04/2026 - 23/04/2026
+✅ Selected "Refunded" from Status
+--------------------------------------------------
+🔢 Total Refunds Count: 17
+   🔹 Row 1: 1.00
+   🔹 Row 2: 1.00
+   🔹 Row 3: 830.00
+   🔹 Row 4: 35.00
+   🔹 Row 5: 12.00
+   🔹 Row 6: 1222.55
+   🔹 Row 7: 12.00
+   🔹 Row 8: 126.50
+   🔹 Row 9: 129.00
+   🔹 Row 10: 90.00
+   🔹 Row 11: 2515.00
+   🔹 Row 12: 130.00
+   🔹 Row 13: 10.00
+   🔹 Row 14: 75.88
+   🔹 Row 15: 386.99
+   🔹 Row 16: 240.99
+   🔹 Row 17: 560.00
+--------------------------------------------------
+Refunds Value: 6377.91
+--------------------------------------------------
+
+✅ Selected "ECOMMERCE" from channel
+✅ Selected "SOFT_POS" from channel
+✅ Selected "MOTO" from channel
+Dashboard Summary are as below:
+Total Value: 6,693.98
+Payments: 87
+Refunds: 20
+Refund Amount: 6,487.91

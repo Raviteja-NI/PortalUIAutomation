@@ -1,0 +1,14 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "POS" from channel
+
+📊 Analyzing Acceptance Rate Graph (2 categories)...
+----------------------------------------------------------------------
+Status: Approved        | UI Label: 90.43% | Tooltip: Approved : 65,741.61
+Status: Declined        | UI Label: 9.57% | Tooltip: Declined : 6,953.65
+----------------------------------------------------------------------
+Total Value Summed: 72695.26
+✅ VALID: Approved percentage (90.43%) is correct.
+✅ VALID: Declined percentage (9.57%) is correct.
+----------------------------------------------------------------------

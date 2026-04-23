@@ -1,0 +1,15 @@
+🔄 @logout detected: Purging session for new user login...
+Navigation Successful!
+🔑 NO SESSION: Logging in as Ravi.Garikapati+mdeuat@network.global
+✅ Selected "Today" from Date
+✅ Selected "ECOMMERCE" from channel
+✅ Selected "SOFT_POS" from channel
+✅ Selected "MOTO" from channel
+
+📊 Analyzing Top 5 Declines Graph (1 reasons)...
+----------------------------------------------------------------------
+Decline Reason: No data                             | UI Label: 0.00% | Tooltip: No data : 0
+----------------------------------------------------------------------
+Total Decline Value Summed: 0.00
+ℹ️ No decline value found to calculate percentages.
+----------------------------------------------------------------------

@@ -1,0 +1,15 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Selected "SOFT_POS" from channel
+✅ Selected "ECOMMERCE" from channel
+✅ Selected "MOTO" from channel
+
+📊 Analyzing Acceptance Rate Graph (2 categories)...
+----------------------------------------------------------------------
+Status: Approved        | UI Label: 90.58% | Tooltip: Approved : 19,892.05
+Status: Declined        | UI Label: 9.42% | Tooltip: Declined : 2,067.71
+----------------------------------------------------------------------
+Total Value Summed: 21959.76
+✅ VALID: Approved percentage (90.58%) is correct.
+✅ VALID: Declined percentage (9.42%) is correct.
+----------------------------------------------------------------------

@@ -1,0 +1,77 @@
+🔄 @logout detected: Purging session for new user login...
+Navigation Successful!
+🔑 NO SESSION: Logging in as abhranil.ghosh@network.global
+📅 Force-setting date to hyphenated format: 23-04-2026
+✅ UI Now Shows: 23/04/2026 - 23/04/2026
+✅ Selected "Pos" from Channel
+✅ Selected "Approved" from Status
+✅ Selected "Authorised" from Status
+✅ Selected "captured" from Status
+
+📋 TABLE ANALYSIS
+--------------------------------------------------
+🔢 Total Payments count: 20
+   🔹 Row 1: 14.00
+   🔹 Row 2: 25.00
+   🔹 Row 3: 25.00
+   🔹 Row 4: 22.00
+   🔹 Row 5: 20.00
+   🔹 Row 6: 10.00
+   🔹 Row 7: 10.00
+   🔹 Row 8: 15.00
+   🔹 Row 9: 150.00
+   🔹 Row 10: 25.00
+   🔹 Row 11: 50.00
+   🔹 Row 12: 1200.00
+   🔹 Row 13: 25.00
+   🔹 Row 14: 12.00
+   🔹 Row 15: 235.55
+   🔹 Row 16: 544.22
+   🔹 Row 17: 12.00
+   🔹 Row 18: 65.00
+   🔹 Row 19: 852.21
+   🔹 Row 20: 14.00
+--------------------------------------------------
+Payments Value: 3325.98
+--------------------------------------------------
+
+✅ Cleared Status
+✅ Selected "Refunded" from Status
+--------------------------------------------------
+🔢 Total Refunds Count: 20
+   🔹 Row 1: 120.00
+   🔹 Row 2: 25.00
+   🔹 Row 3: 22.00
+   🔹 Row 4: 26.00
+   🔹 Row 5: 58.99
+   🔹 Row 6: 212.23
+   🔹 Row 7: 222.55
+   🔹 Row 8: 152.05
+   🔹 Row 9: 20.00
+   🔹 Row 10: 1300.00
+   🔹 Row 11: 32.00
+   🔹 Row 12: 30.00
+   🔹 Row 13: 25.00
+   🔹 Row 14: 55.00
+   🔹 Row 15: 1.00
+   🔹 Row 16: 1.00
+   🔹 Row 17: 830.00
+   🔹 Row 18: 35.00
+   🔹 Row 19: 12.00
+   🔹 Row 20: 1222.55
+--------------------------------------------------
+Refunds Value: 4402.37
+--------------------------------------------------
+
+--------------------------------------------------
+Total Purchase: 3325.98
+Total Refunds:  4402.37
+Total Value:    -1076.39
+--------------------------------------------------
+✅ Cleared channel filter
+✅ Selected "POS" from channel
+Dashboard Summary are as below:
+Total Value: 28,178.52
+Payments: 137
+Refunds: 31
+Refund Amount: 8,678.73

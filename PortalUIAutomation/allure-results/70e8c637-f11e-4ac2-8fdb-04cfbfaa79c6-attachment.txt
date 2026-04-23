@@ -1,0 +1,20 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Selected "ECOMMERCE" from channel
+✅ Selected "MOTO" from channel
+
+📊 Analyzing Top 5 Declines Graph (5 reasons)...
+----------------------------------------------------------------------
+Decline Reason: Bad Message Edit                    | UI Label: 52.02% | Tooltip: Bad Message Edit : 1,075.55
+Decline Reason: Issue a Call                        | UI Label: 43.92% | Tooltip: Issue a Call : 908.16
+Decline Reason: REQUEST CRYPTOGRAM FAILURE (DECLINE) | UI Label: 3.00% | Tooltip: REQUEST CRYPTOGRAM FAILURE (DECLINE) : 62.00
+Decline Reason: Timeout                             | UI Label: 0.58% | Tooltip: Timeout : 12.00
+Decline Reason: CAF Not Found                       | UI Label: 0.48% | Tooltip: CAF Not Found : 10.00
+----------------------------------------------------------------------
+Total Decline Value Summed: 2067.71
+✅ VALID: Bad Message Edit     (52.02%) is correct.
+✅ VALID: Issue a Call         (43.92%) is correct.
+✅ VALID: REQUEST CRYPTOGRAM FAILURE (DECLINE) (3.00%) is correct.
+✅ VALID: Timeout              (0.58%) is correct.
+✅ VALID: CAF Not Found        (0.48%) is correct.
+----------------------------------------------------------------------

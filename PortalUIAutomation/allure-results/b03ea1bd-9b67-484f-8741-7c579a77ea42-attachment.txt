@@ -1,0 +1,22 @@
+🔄 @logout detected: Purging session for new user login...
+⚠️ Session purge skipped: page.goto: net::ERR_ABORTED at https://portal.sandbox.ngenius-payments.com/
+Call log:
+[2m  - navigating to "https://portal.sandbox.ngenius-payments.com/", waiting until "domcontentloaded"[22m
+
+Navigation Successful!
+🔑 NO SESSION: Logging in as Ravi.Garikapati+mdeuat@network.global
+✅ Selected "Today" from Date
+✅ Selected "ECOMMERCE" from channel
+✅ Selected "SOFT_POS" from channel
+✅ Selected "MOTO" from channel
+✅ Dashboard Main Total: 0.00
+📊 Found 4 Outlets. Processing values...
+--------------------------------------------------
+Outlet: ECOM OUTLET2              | Value: AED 0
+Outlet: ECOM OUTLET               | Value: AED 0
+Outlet: SOFTPOS OUTLET            | Value: AED 0
+Outlet: 00112345677               | Value: AED 0
+--------------------------------------------------
+SUM OF ALL OUTLETS:      AED 0.00
+EXPECTED GRAND TOTAL:    AED 0.00
+✅ SUCCESS: The sum of all outlets matches the Dashboard Total!

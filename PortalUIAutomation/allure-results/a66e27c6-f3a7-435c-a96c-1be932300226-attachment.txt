@@ -1,0 +1,13 @@
+Navigation Successful!
+🔑 NO SESSION: Logging in as abhranil.ghosh@network.global
+Cleaned Actual: [
+  "Settlement amount",
+  "Channel",
+  "Currency",
+  "Type",
+  "Settlement Date",
+  "IBAN"
+]
+Detected Dates (in order): []
+✅ All dates are correctly sorted in descending order.
+Clicked the first settlement row.

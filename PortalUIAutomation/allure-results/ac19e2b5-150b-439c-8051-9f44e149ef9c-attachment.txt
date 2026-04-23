@@ -1,0 +1,75 @@
+Navigation Successful!
+📅 Force-setting date to hyphenated format: 23-04-2026
+✅ UI Now Shows: 23/04/2026 - 23/04/2026
+✅ Selected "Pos" from Channel
+✅ Selected "Approved" from Status
+✅ Selected "Authorised" from Status
+✅ Selected "captured" from Status
+
+📋 TABLE ANALYSIS
+--------------------------------------------------
+🔢 Total Payments count: 20
+   🔹 Row 1: 25.00
+   🔹 Row 2: 22.00
+   🔹 Row 3: 20.00
+   🔹 Row 4: 10.00
+   🔹 Row 5: 10.00
+   🔹 Row 6: 15.00
+   🔹 Row 7: 150.00
+   🔹 Row 8: 25.00
+   🔹 Row 9: 50.00
+   🔹 Row 10: 1200.00
+   🔹 Row 11: 25.00
+   🔹 Row 12: 12.00
+   🔹 Row 13: 235.55
+   🔹 Row 14: 544.22
+   🔹 Row 15: 12.00
+   🔹 Row 16: 65.00
+   🔹 Row 17: 852.21
+   🔹 Row 18: 14.00
+   🔹 Row 19: 3500.05
+   🔹 Row 20: 1255.88
+--------------------------------------------------
+Payments Value: 8042.91
+--------------------------------------------------
+
+✅ Cleared Status
+✅ Selected "Refunded" from Status
+--------------------------------------------------
+🔢 Total Refunds Count: 20
+   🔹 Row 1: 22.00
+   🔹 Row 2: 26.00
+   🔹 Row 3: 58.99
+   🔹 Row 4: 212.23
+   🔹 Row 5: 222.55
+   🔹 Row 6: 152.05
+   🔹 Row 7: 20.00
+   🔹 Row 8: 1300.00
+   🔹 Row 9: 32.00
+   🔹 Row 10: 30.00
+   🔹 Row 11: 25.00
+   🔹 Row 12: 55.00
+   🔹 Row 13: 1.00
+   🔹 Row 14: 1.00
+   🔹 Row 15: 830.00
+   🔹 Row 16: 35.00
+   🔹 Row 17: 12.00
+   🔹 Row 18: 1222.55
+   🔹 Row 19: 12.00
+   🔹 Row 20: 126.50
+--------------------------------------------------
+Refunds Value: 4395.87
+--------------------------------------------------
+
+--------------------------------------------------
+Total Purchase: 8042.91
+Total Refunds:  4395.87
+Total Value:    3647.04
+--------------------------------------------------
+✅ Cleared channel filter
+✅ Selected "POS" from channel
+Dashboard Summary are as below:
+Total Value: 27,729.52
+Payments: 135
+Refunds: 29
+Refund Amount: 8,533.73

@@ -1,0 +1,12 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "SOFT_POS" from channel
+✅ Dashboard Main Total: 12.00
+📊 Found 1 Outlets. Processing values...
+--------------------------------------------------
+Outlet: SOFTPOS B24 STANDALONE    | Value: AED 12
+--------------------------------------------------
+SUM OF ALL OUTLETS:      AED 12.00
+EXPECTED GRAND TOTAL:    AED 12.00
+✅ SUCCESS: The sum of all outlets matches the Dashboard Total!

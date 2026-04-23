@@ -1,0 +1,17 @@
+🔄 @logout detected: Purging session for new user login...
+Navigation Successful!
+🔑 NO SESSION: Logging in as abhranil.ghosh@network.global
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "SOFT_POS" from channel
+✅ Selected "POS" from channel
+
+📊 Analyzing Acceptance Rate Graph (2 categories)...
+----------------------------------------------------------------------
+Status: Approved        | UI Label: 89.85% | Tooltip: Approved : 61,574.59
+Status: Declined        | UI Label: 10.15% | Tooltip: Declined : 6,953.65
+----------------------------------------------------------------------
+Total Value Summed: 68528.24
+✅ VALID: Approved percentage (89.85%) is correct.
+✅ VALID: Declined percentage (10.15%) is correct.
+----------------------------------------------------------------------

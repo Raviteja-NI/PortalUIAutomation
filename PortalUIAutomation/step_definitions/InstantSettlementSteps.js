@@ -145,7 +145,7 @@ Then('I select the MID1 from config', async function () {
     // 1. Read MID1 from paymentFormData.json
     const dataPath = path.join(__dirname, '../paymentFormData.json');
     const testData = JSON.parse(fs.readFileSync(dataPath, 'utf8'));
-    const targetMID = testData.carrefouruser.payment.MID1; 
+    const targetMID = testData.carrefouruser.payment.MID1;
 
     // 2. Click on the MID element (the dropdown toggle)
     const midDropdown = this.page.locator('#midBalance');
@@ -197,12 +197,12 @@ Then('I display the selected MID details and verify settle now button state', as
     // 5. Verify the main "Request settlement" button is ENABLED
     const requestSettlementBtn = this.page.getByRole('button', { name: 'Request settlement' });
     await expect(requestSettlementBtn).toBeEnabled({ timeout: 5000 });
-    
+
     console.log(`>>> "Request settlement" button is ENABLED and ready.`);
 });
 Then('I verify the Minimum amount validation error', async function () {
     const amountInput = this.page.locator('input[inputmode="decimal"]');
-    
+
     // 1. Enter 0 to trigger minimum error
     await amountInput.fill('0');
     await amountInput.press('Tab'); // Blur the field to trigger validation
@@ -210,18 +210,19 @@ Then('I verify the Minimum amount validation error', async function () {
     // 2. Verify error message
     const minError = this.page.getByText('Minimum amount should be 1 AED', { exact: false });
     await expect(minError).toBeVisible({ timeout: 5000 });
-    
-    console.log(">>> Confirmed: Minimum amount validation error is displayed.");
+
+    // console.log(">>> Confirmed: Minimum amount validation error is displayed.");
+    console.log("minimum validation error: Minimum amount is 1 AED");
 });
 
 Then('I verify the Maximum amount validation error', async function () {
     const amountInput = this.page.locator('input[inputmode="decimal"]');
-    
+
     // 1. Get the current Available Amount from the UI to determine the "Max"
     const availableText = await this.page
         .locator('.src-pages-settlements-on-demand-settlement__midInfoRow--TT6ey', { hasText: 'Available for instant settlement' })
         .locator('span').last().textContent();
-    
+
     // Extract numeric value (e.g., "505.8" from "505.8 AED")
     const maxLimit = availableText.split(' ')[0].trim();
     const overLimit = (parseFloat(maxLimit) + 10).toString();
@@ -235,10 +236,21 @@ Then('I verify the Maximum amount validation error', async function () {
     // 3. Verify error message: "Maximum amount is [maxLimit] AED."
     const maxError = this.page.getByText(`Maximum amount is ${maxLimit} AED`, { exact: false });
     await expect(maxError).toBeVisible({ timeout: 5000 });
-    
+
     // 4. Verify 'Request settlement' button is disabled
     const requestBtn = this.page.getByRole('button', { name: 'Request settlement' });
     await expect(requestBtn).toBeDisabled();
 
-    console.log(`>>> Confirmed: Maximum amount validation error for ${maxLimit} AED is displayed.`);
+    //  console.log(`>>> Confirmed: Maximum amount validation error for ${maxLimit} AED is displayed.`);
+    console.log(`maxmimum validation error: Maximum amount is ${maxLimit} AED.`);
+});
+Then('I verify the header {string} is displayed', async function (expectedHeader) {
+    // Finds the h3 tag that contains the header text
+    const pageHeader = this.page.locator('h3.h3', { hasText: expectedHeader });
+
+    // Using a 10s timeout to allow for page navigation
+    await expect(pageHeader).toBeVisible({ timeout: 10000 });
+
+    const actualText = await pageHeader.textContent();
+    console.log(`>>> Confirmed: Navigated to page with header "${actualText}"`);
 });

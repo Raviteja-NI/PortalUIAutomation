@@ -1,0 +1,23 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Selected "ECOMMERCE" from channel
+✅ Selected "POS" from channel
+✅ Selected "MOTO" from channel
+✅ Selected "Last 7 days" from Date
+Detected Pie Charts: [
+  "Acceptance rate",
+  "Top 5 declines",
+  "Sales by payment type"
+]
+✅ Selected "Last 14 days" from Date
+Detected Pie Charts: [
+  "Acceptance rate",
+  "Top 5 declines",
+  "Sales by payment type"
+]
+✅ Selected "Last 30 days" from Date
+Detected Pie Charts: [
+  "Acceptance rate",
+  "Top 5 declines",
+  "Sales by payment type"
+]

@@ -1,0 +1,21 @@
+Navigation Successful!
+✅ Selected "pos" from channel
+Cleaned Actual: [
+  "Settlement amount",
+  "Channel",
+  "Currency",
+  "Type",
+  "Settlement Date",
+  "IBAN"
+]
+Detected Dates (in order): [
+  "22/04/2026",
+  "21/04/2026",
+  "17/04/2026",
+  "17/04/2026",
+  "17/04/2026",
+  "16/04/2026",
+  "15/04/2026"
+]
+✅ All dates are correctly sorted in descending order.
+Clicked the first settlement row.

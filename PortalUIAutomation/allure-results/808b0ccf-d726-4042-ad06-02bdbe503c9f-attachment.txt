@@ -1,0 +1,19 @@
+🔄 @logout detected: Purging session for new user login...
+Navigation Successful!
+🔑 NO SESSION: Logging in as Ravi.Garikapati+standaloneb24@network.global
+📅 Force-setting date to hyphenated format: 23-04-2026
+✅ UI Now Shows: 23/04/2026 - 23/04/2026
+✅ Selected "Refunded" from Status
+--------------------------------------------------
+🔢 Total Refunds Count: 0
+--------------------------------------------------
+Refunds Value: 0.00
+--------------------------------------------------
+
+✅ Cleared channel filter
+✅ Selected "SOFT_POS" from channel
+Dashboard Summary are as below:
+Total Value: 12.00
+Payments: 1
+Refunds: 0
+Refund Amount: 0.00

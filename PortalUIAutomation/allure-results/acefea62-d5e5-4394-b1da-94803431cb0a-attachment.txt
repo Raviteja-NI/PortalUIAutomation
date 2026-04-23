@@ -1,0 +1,72 @@
+Navigation Successful!
+📅 Force-setting date to hyphenated format: 23-04-2026
+✅ UI Now Shows: 23/04/2026 - 23/04/2026
+✅ Selected "Pos" from Channel
+✅ Selected "Approved" from Status
+✅ Selected "Authorised" from Status
+✅ Selected "captured" from Status
+
+📋 TABLE ANALYSIS
+--------------------------------------------------
+🔢 Total Payments count: 20
+   🔹 Row 1: 1.11
+   🔹 Row 2: 150.00
+   🔹 Row 3: 6.50
+   🔹 Row 4: 65.00
+   🔹 Row 5: 8.00
+   🔹 Row 6: 130.00
+   🔹 Row 7: 522.12
+   🔹 Row 8: 6.00
+   🔹 Row 9: 1360.00
+   🔹 Row 10: 5.80
+   🔹 Row 11: 1350.00
+   🔹 Row 12: 150.00
+   🔹 Row 13: 4.50
+   🔹 Row 14: 25.00
+   🔹 Row 15: 25.00
+   🔹 Row 16: 45.66
+   🔹 Row 17: 25.00
+   🔹 Row 18: 25.00
+   🔹 Row 19: 830.00
+   🔹 Row 20: 820.00
+--------------------------------------------------
+Payments Value: 5554.69
+--------------------------------------------------
+
+✅ Cleared Status
+✅ Selected "Refunded" from Status
+--------------------------------------------------
+🔢 Total Refunds Count: 16
+   🔹 Row 1: 1.00
+   🔹 Row 2: 830.00
+   🔹 Row 3: 35.00
+   🔹 Row 4: 12.00
+   🔹 Row 5: 1222.55
+   🔹 Row 6: 12.00
+   🔹 Row 7: 126.50
+   🔹 Row 8: 129.00
+   🔹 Row 9: 90.00
+   🔹 Row 10: 2515.00
+   🔹 Row 11: 130.00
+   🔹 Row 12: 10.00
+   🔹 Row 13: 75.88
+   🔹 Row 14: 386.99
+   🔹 Row 15: 240.99
+   🔹 Row 16: 560.00
+--------------------------------------------------
+Refunds Value: 6376.91
+--------------------------------------------------
+
+--------------------------------------------------
+Total Purchase: 5554.69
+Total Refunds:  6376.91
+Total Value:    -822.22
+--------------------------------------------------
+✅ Selected "ECOMMERCE" from channel
+✅ Selected "SOFT_POS" from channel
+✅ Selected "MOTO" from channel
+Dashboard Summary are as below:
+Total Value: 6,932.78
+Payments: 85
+Refunds: 16
+Refund Amount: 6,376.91

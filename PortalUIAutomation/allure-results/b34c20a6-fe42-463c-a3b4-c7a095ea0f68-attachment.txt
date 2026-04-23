@@ -1,0 +1,3 @@
+Navigation Successful!
+✅ Selected "pos" from channel
+Targeting Way4 netamount: 49,203.01 for carrefouruser

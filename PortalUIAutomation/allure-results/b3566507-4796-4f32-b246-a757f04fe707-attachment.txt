@@ -1,0 +1,12 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Selected "SOFT_POS" from channel
+✅ Selected "ECOMMERCE" from channel
+✅ Selected "MOTO" from channel
+
+📊 Analyzing Acceptance Rate Graph (1 categories)...
+----------------------------------------------------------------------
+Status: No data         | UI Label: 0.00% | Tooltip: No data : 0
+----------------------------------------------------------------------
+Total Value Summed: 0.00
+----------------------------------------------------------------------

@@ -1,0 +1,22 @@
+🔄 @logout detected: Purging session for new user login...
+Navigation Successful!
+🔑 NO SESSION: Logging in as abhranil.ghosh@network.global
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "POS" from channel
+
+📊 Analyzing Top 5 Declines Graph (5 reasons)...
+----------------------------------------------------------------------
+Decline Reason: Unable to Process the Tran          | UI Label: 57.10% | Tooltip: Unable to Process the Tran : 3,351.22
+Decline Reason: Timeout                             | UI Label: 22.41% | Tooltip: Timeout : 1,315.42
+Decline Reason: Issue a Call                        | UI Label: 16.38% | Tooltip: Issue a Call : 961.46
+Decline Reason: REQUEST CRYPTOGRAM FAILURE (DECLINE) | UI Label: 3.94% | Tooltip: REQUEST CRYPTOGRAM FAILURE (DECLINE) : 231.00
+Decline Reason: CAF Not Found                       | UI Label: 0.17% | Tooltip: CAF Not Found : 10.00
+----------------------------------------------------------------------
+Total Decline Value Summed: 5869.10
+✅ VALID: Unable to Process the Tran (57.10%) is correct.
+✅ VALID: Timeout              (22.41%) is correct.
+✅ VALID: Issue a Call         (16.38%) is correct.
+✅ VALID: REQUEST CRYPTOGRAM FAILURE (DECLINE) (3.94%) is correct.
+✅ VALID: CAF Not Found        (0.17%) is correct.
+----------------------------------------------------------------------

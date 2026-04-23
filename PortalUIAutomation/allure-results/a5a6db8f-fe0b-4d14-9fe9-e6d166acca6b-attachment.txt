@@ -1,0 +1,8 @@
+Navigation Successful!
+🔑 NO SESSION: Logging in as Ravi.Garikapati+mdeuat@network.global
+Default Filter selected are as below
+Default date: 22/04/2026 - 22/04/2026
+Default Currency: AED
+Default Channels: ECOMMERCE, POS, SOFT_POS, MOTO
+Default Payment Status: Successful
+✅ Selected "Today" from Date

@@ -1,0 +1,30 @@
+Navigation Successful!
+✅ Selected "Today" from Date
+✅ Selected "ECOMMERCE" from channel
+✅ Selected "SOFT_POS" from channel
+✅ Selected "MOTO" from channel
+✅ Dashboard Main Total: 22,014.54
+📊 Found 19 Outlets. Processing values...
+--------------------------------------------------
+Outlet: SHASHANK DONT USE         | Value: AED 0
+Outlet: SOBTESTING                | Value: AED 0
+Outlet: AL MANAR MALL             | Value: AED 0
+Outlet: TEST-KAMAL-NGO-200611-115641-MERCHANTNAME2 | Value: AED 0
+Outlet: CARREFOUR AIRPORT ROAD    | Value: AED 0
+Outlet: SOFTPOS OUTLET            | Value: AED 0
+Outlet: SHASHANK DONT USE THIS    | Value: AED 0
+Outlet: TM                        | Value: AED 0
+Outlet: AANI QR                   | Value: AED 0
+Outlet: ODS OUTLET                | Value: AED 0
+Outlet: TEST-KAMAL-NGO-200611-115641-MERCHANTNAME1 | Value: AED 0
+Outlet: SHARJAH CITY CENTRE       | Value: AED 0
+Outlet: AHMAD                     | Value: AED 0
+Outlet: CARREFOUR ONLINE UAE      | Value: AED 0
+Outlet: CARREFOUR CITY CENTER AJMAN | Value: AED 22,015
+Outlet: OUTLET_01                 | Value: AED 0
+Outlet: FUJAIRAH CITY CENTRE      | Value: AED 0
+Outlet: KUMAR OUTLET              | Value: AED 0
+Outlet: CARREFOUR MALL OF EMIRATES | Value: AED 0
+--------------------------------------------------
+SUM OF ALL OUTLETS:      AED 22,015.00
+EXPECTED GRAND TOTAL:    AED 22,014.54

@@ -11,3 +11,8 @@ Feature: Verify the Ecom Dashboard Page
         And I select "Successful" from "payment Status" filter
         Then I verify the number of filtered orders
         And I do the full Refund
+
+    @Refund1
+    Scenario: Verify Filters in sample page
+        When  I click on Orders tab
+       

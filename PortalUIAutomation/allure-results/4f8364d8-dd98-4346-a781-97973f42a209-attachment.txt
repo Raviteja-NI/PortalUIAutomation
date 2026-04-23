@@ -1,0 +1,18 @@
+Navigation Successful!
+🔑 NO SESSION: Logging in as abhranil.ghosh@network.global
+Default Filter selected are as below
+Default date: 22/04/2026 - 22/04/2026
+Default Currency: AED
+Default Channels: ECOMMERCE, POS, SOFT_POS, MOTO
+Default Payment Status: Successful
+✅ Selected "Today" from Date
+✅ Cleared channel filter
+✅ Selected "POS" from channel
+Detected Pie Charts: [
+  "Acceptance rate",
+  "",
+  "Top 5 declines",
+  "",
+  "Sales by payment type",
+  ""
+]

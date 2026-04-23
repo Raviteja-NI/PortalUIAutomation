@@ -1,0 +1,6 @@
+🔄 @logout detected: Purging session for new user login...
+⚠️ Session purge skipped: page.goto: net::ERR_ABORTED at https://portal.sandbox.ngenius-payments.com/
+Call log:
+[2m  - navigating to "https://portal.sandbox.ngenius-payments.com/", waiting until "domcontentloaded"[22m
+
+Navigation Successful!
